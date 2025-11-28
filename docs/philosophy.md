@@ -68,7 +68,7 @@ SFL provides a framework to ensure that AI remains an assistive tool, not the de
 
 Next Steps
 	•	Integrate SFL into existing development environments like IDEs and low-code/no-code platforms.
-	•	Expand to platforms like GrapesJS for UI composition and visual code generation.
+	•	Expand to other platforms for UI composition and visual code generation.
 	•	Develop semantic linting tools to verify AI-generated code against human-defined constraints.
 
 This balance between AI acceleration and human understanding will define the future of reliable, transparent AI-assisted development.
