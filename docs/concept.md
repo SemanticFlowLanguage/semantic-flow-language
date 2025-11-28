@@ -39,9 +39,9 @@ SFL is built around five foundational components:
 
 How SFL Works
 	•	Semantic Re-Sync: When intent (meaning) or logic (code) is modified, SFL automatically re-aligns the changes. For instance, if the description of a node in a system changes, the corresponding code will be regenerated to match that description. Likewise, if AI generates code that doesn’t align with the intended meaning, SFL will ensure that this misalignment is corrected.
-	•	Visual Flow Representation: SFL uses a flow-based model (similar to Node-RED), where nodes represent units of logic and edges represent relationships or data flow. This allows for visual organization of logic while keeping the semantic meaning intact.
+	•	Visual Flow Representation: SFL uses a flow-based model, where nodes represent units of logic and edges represent relationships or data flow. This allows for visual organization of logic while keeping the semantic meaning intact.
 	•	Bidirectional Synchronization: The system ensures that any change in intent (human or AI-generated) is reflected in the corresponding logic, and vice versa. This makes it easy to trace any changes and verify that they align with the original meaning.
-	•	Cross-Platform Applicability: While the initial implementation has been developed within Node-RED, SFL is platform-agnostic and can be applied to other environments, such as visual editors (e.g., GrapesJS), IDEs, and command-line tools.
+	•	Cross-Platform Applicability: While the initial implementation has been developed within Node-RED, SFL is platform-agnostic and can be applied to other environments, such as visual editors, IDEs, and command-line tools.
 
 Why SFL Matters
 	•	Transparency and Trustworthiness: In AI-driven systems, transparency and trust are critical. By enforcing semantic alignment, SFL ensures that developers, operators, and stakeholders can trust AI-generated code because it remains verifiable and aligned with the original intent.
