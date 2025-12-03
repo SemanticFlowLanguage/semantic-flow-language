@@ -1,5 +1,7 @@
 # Semantic Flow Language (SFL)
 
+> A semantic execution model aligning human intent, AI reasoning, and runnable logic.
+
 **Semantic Flow Language (SFL)** is a **Semantic Execution Model** that represents logic as a **bidirectionally synchronized meaning graph**, ensuring that human intent, AI generation, and executable code remain aligned.
 
 ### Problem with Generative AI
@@ -24,7 +26,9 @@ SFL is designed to work across **visual programming environments** (like Node-RE
 ### Current Implementation: Node-RED
 
 The first implementation of SFL is available as a **Node-RED** extension:  
-**[Node-RED – Semantic Flow Language (node-red-semantic-flow-language)](https://github.com/yourname/node-red-semantic-flow-language)**
+**[Node-RED – Semantic Flow Language (node-red-semantic-flow-language)](https://github.com/SemanticFlowLanguage/node-red-semantic-flow-language)**
+
+![SFL Node-RED Demo](./assets/sfl-demo.gif)
 
 This project demonstrates the core idea of intent ↔ logic synchronization, with a visual interface that lets developers track changes and ensure alignment between code and meaning. It serves as the first real-world example of how SFL works in practice.
 
