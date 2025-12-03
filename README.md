@@ -39,13 +39,12 @@ SFL is designed to be platform-agnostic, and future versions will extend to othe
 
 We welcome contributions to expand and improve the Semantic Flow Language project. If you’re interested, please check out the **[contributing guidelines](./CONTRIBUTING.md)** for more information.
 
-### License
-
-This project is licensed under the **ISC License** Copyright (c) 2025 William Shostak — see the **[LICENSE](./LICENSE.txt)** file for more details.
-
-
----
-
 ### Contact
 
 - **Author:** William Shostak (https://github.com/wshostak)
+
+### License
+
+This project is licensed under the **ISC License** — see the **[LICENSE](./LICENSE.txt)** file for more details.
+
+Copyright (c) 2025 William Shostak
