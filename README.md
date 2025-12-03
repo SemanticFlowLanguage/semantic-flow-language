@@ -23,7 +23,7 @@ SFL is designed to work across **visual programming environments** (like Node-RE
 - **Semantic Integrity:** The intent and logic are bidirectionally synchronized and verifiable.
 - **Verification:** Each step in the process is validated to ensure it aligns with the original intent and rules.
 
-## Core Documents
+### Core Documents
 
 The Semantic Flow Language (SFL) is defined across three foundational documents:
 
