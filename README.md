@@ -41,7 +41,8 @@ We welcome contributions to expand and improve the Semantic Flow Language projec
 
 ### License
 
-This project is licensed under the **ISC License** — see the **[LICENSE](./LICENSE.txt)** file for more details.
+This project is licensed under the **ISC License** Copyright (c) 2025 William Shostak — see the **[LICENSE](./LICENSE.txt)** file for more details.
+
 
 ---
 
