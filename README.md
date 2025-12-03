@@ -23,6 +23,16 @@ SFL is designed to work across **visual programming environments** (like Node-RE
 - **Semantic Integrity:** The intent and logic are bidirectionally synchronized and verifiable.
 - **Verification:** Each step in the process is validated to ensure it aligns with the original intent and rules.
 
+## Core Documents
+
+The Semantic Flow Language (SFL) is defined across three foundational documents:
+
+- [**Concept**](./docs/concept.md) — Defines the core structure, goals, and dual-layer approach of SFL.  
+- [**Philosophy**](./docs/philosophy.md) — Explains the reasoning behind SFL: the problem with probabilistic AI and the need for human-centered semantic control.  
+- [**Specification**](./docs/specification.md) — Details the formal semantics, syntax, and verification model for SFL implementations.
+
+Together, these documents describe how SFL maintains semantic alignment between **human intent**, **AI generation**, and **runnable logic** — creating a new paradigm for AI-assisted software design.
+
 ### Current Implementation: Node-RED
 
 The first implementation of SFL is available as a **Node-RED** extension:  
