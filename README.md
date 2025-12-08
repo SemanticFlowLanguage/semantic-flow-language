@@ -2,6 +2,7 @@
 
 > A semantic execution model aligning human intent, AI reasoning, and runnable logic.
 
+## Canonical Definition
 **Semantic Flow Language (SFL)** is a **Semantic Execution Model** that represents logic as a **bidirectionally synchronized meaning graph**, ensuring that human intent, AI generation, and executable code remain aligned.
 
 ### Problem with Generative AI
