@@ -50,6 +50,16 @@ SFL is designed to be platform-agnostic, and future versions will extend to othe
 - **IDE plugins**
 - **Command-line tools** for semantic linting and verification
 
+## Related Projects
+
+- **System Topology Manifest (STM)**  
+  Declarative inventory of systems, applications, and signals.  
+  https://github.com/SystemTopologyManifest/system-topology-manifest
+
+- **System Architecture Manifest (SAM)**  
+  Derived architecture constraints and guardrails composed from STM output.  
+  https://github.com/SystemArchitectureManifest/system-architecture-manifest
+
 ### Contributing
 
 We welcome contributions to expand and improve the Semantic Flow Language project. If you’re interested, please check out the **[contributing guidelines](./CONTRIBUTING.md)** for more information.
