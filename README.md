@@ -60,6 +60,14 @@ SFL is designed to be platform-agnostic, and future versions will extend to othe
   Derived architecture constraints and guardrails composed from STM output.  
   https://github.com/SystemArchitectureManifest/system-architecture-manifest
 
+## Runtime Layer
+
+This system uses **MOCA (Memory-Oriented Cognitive Architecture)** as a runtime and integration layer.
+
+MOCA is independently usable and is not specific to this project.
+
+https://github.com/MemoryOrientedCognitiveArchitecture/memory-oriented-cognitive-architecture
+
 ### Contributing
 
 We welcome contributions to expand and improve the Semantic Flow Language project. If you’re interested, please check out the **[contributing guidelines](./CONTRIBUTING.md)** for more information.
